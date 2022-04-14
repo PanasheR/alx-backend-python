@@ -1,7 +1,7 @@
 # 0x00. Python - Variable Annotations
 ![static or dynamic](https://i.redd.it/y9y25tefi5401.png)
-[Python 3 typing documentation](https://docs.python.org/3/library/typing.html)
-[MyPy cheat sheet](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html)
+- [Python 3 typing documentation](https://docs.python.org/3/library/typing.html)
+- [MyPy cheat sheet](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html)
 ## Requirements
 - Your code should use the pycodestyle style (version 2.5.)
 - All your files should end with a new line
